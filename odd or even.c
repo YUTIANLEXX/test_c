@@ -8,4 +8,5 @@ int main(void)
 		printf("Å¼Êı\n");
 	else
 		printf("ÆæÊı\n");
+	return 0;
 }
